@@ -1,0 +1,20 @@
+ seguindo o explicado aqui - https://www.youtube.com/watch?v=qWSPog9Fz-o&t=1607s
+ 
+ npm init
+ npm i --save-dev typescript ts-loader
+ npm i --save jquery
+ npm i --save-dev typings
+
+ Instalação - node_modules/.bin/typings install dt~jquery --global --save
+
+ npm i --save-dev webpack
+
+ Configurar os arquivos iniciais...
+- ts-src
+- tsconfig.json
+- webpack.config.js
+
+Executar para transpilar: - node_modules/.bin/webpack
+--- confirmar instalação do webpack-cli
+
+no DevTools, podemos debugar os scripts através da núvem com o nome da aplicação, definido no package.json -- nesse exemplo foi ilhapqt

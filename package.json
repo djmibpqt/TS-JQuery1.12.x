@@ -1,0 +1,39 @@
+{
+  "name": "ilhapqt",
+  "version": "1.0.0",
+  "description": "Este site busca reunir o máximo de informações da Ilha de Paquetá, apelidada de PQT e também chamada de Pérola da Guanabara ou a Ilha dos Amores. Procuramos atualizar de maneira colaborativa e pública.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ilha",
+    "paquetá",
+    "rio",
+    "de",
+    "janeiro",
+    "pqt",
+    "mídia",
+    "livre",
+    "ilha de paquetá",
+    "baia de guanabara",
+    "pérola da guanabara",
+    "ilha dos amores",
+    "barcas",
+    "praias",
+    "moreninha",
+    "dj mib"
+  ],
+  "author": "José Felipe - Dj Mib",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-loader": "^9.4.4",
+    "typescript": "^5.1.6",
+    "typings": "^2.1.1",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "jquery": "^1.12.x"
+  }
+}
